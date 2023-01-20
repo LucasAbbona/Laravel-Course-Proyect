@@ -1,66 +1,41 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Projecto Final Laravel
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+### Pagina de Inicio
 
-## About Laravel
+![MySocialMedia - Google Chrome 20_1_2023 15_56_53](https://user-images.githubusercontent.com/111323259/213784651-28ec35fc-894c-4ed4-b8ba-65ef8aa74233.png)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+En esta pagina el usuario se puede loguear y registrar facilmente. 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Una vez Logueado se va a encontrar con la siguiente interfaz en la cual puede ver todos los posteos de los usuarios que sigue.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![MySocialMedia - Google Chrome 20_1_2023 15_57_03](https://user-images.githubusercontent.com/111323259/213784988-38ed7081-675a-4cac-92d8-5a164ff11224.png)
 
-## Learning Laravel
+Tambien haciendo click en un posteo pude ver la descripcion del mismo como tambien su autor y mas informacion.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![MySocialMedia - Google Chrome 20_1_2023 15_57_21](https://user-images.githubusercontent.com/111323259/213785165-c3139fe0-583c-4897-866a-8bee5c74376c.png)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### Subir y editar posteos
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+En el margen superior derecho se puede ver un boton verde en el cual se pueden crear posts en los cuales el usuario podra poner un determinado titulo y descripcion.
 
-## Laravel Sponsors
+![MySocialMedia - Google Chrome 20_1_2023 16_00_17](https://user-images.githubusercontent.com/111323259/213785627-b229d5e2-98f5-4051-8b73-0465fe84b91b.png)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+El mismo puede ser editado con el boton azul que se encuentra a la derecha una vez dentro del posteo.
 
-### Premium Partners
+![MySocialMedia - Google Chrome 20_1_2023 16_11_58](https://user-images.githubusercontent.com/111323259/213785921-68b30373-3b4e-4ae4-9f3e-73d952f108f3.png)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+### Profile
 
-## Contributing
+En este caso si presionamos la imagen en la navbar con nuestro avatar podemos ingresar a nuestro perfil donde podremos editar la imagen del usuario ademas de poder ver todos nuestros posteos.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![MySocialMedia - Google Chrome 20_1_2023 15_58_47](https://user-images.githubusercontent.com/111323259/213786196-e2bd058d-e958-4d4b-8781-409ad40c7389.png)
 
-## Code of Conduct
+Tambien de la misma forma clickeando los avatars podemos ingresar a los perfiles de otros usuario a los cuales podremos seguir.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+https://user-images.githubusercontent.com/111323259/213786446-f105b57c-00cb-4491-8eb5-81f12c532aa1.mp4
 
-## Security Vulnerabilities
+### Chat
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Finalmente tenemos un chat publico con los usuarios.
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![MySocialMedia - Google Chrome 20_1_2023 15_59_48 (2)](https://user-images.githubusercontent.com/111323259/213786550-bb89e5bc-6d12-412a-9fd4-f89416841094.png)
